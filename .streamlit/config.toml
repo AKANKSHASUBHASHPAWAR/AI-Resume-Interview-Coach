@@ -1,8 +1,9 @@
+
 [client]
 showSidebarNavigation = false
 
 [server]
-headless = false
+headless = true
 runOnSave = true
 
 [browser]
