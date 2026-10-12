@@ -1,0 +1,9 @@
+[client]
+showSidebarNavigation = false
+
+[server]
+headless = false
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
